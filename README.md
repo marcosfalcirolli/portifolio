@@ -1,9 +1,9 @@
 # MARCOS DATA SCIENCE PORTIFOLIO
 ## CODE REPOSITORY
-- Kaggle
+- Kaggle:	
 MY FRIST KAGGLE COMPETITION ON KAGGLE HOUSE PRICES
-- MatLab Codes - Stanford
+- MatLab Codes - Stanford:	
 Several machine learning codes that were made based on the mathematical fundamentals of machine learning
-- Udacity
+- Udacity:	
 Projects from Udacity Machine Learning Engineering Nanodree
 
